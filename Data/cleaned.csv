@@ -1,0 +1,646 @@
+Order ID,Order Date,CustomerName,State,City,Amount,Profit,Quantity,Category,Sub-Category,Total Sales
+B-25601,2018-01-04,Bharat,Gujarat,Ahmedabad,1275.0,-1148.0,7,Furniture,Bookcases,8925.0
+B-25601,2018-01-04,Bharat,Gujarat,Ahmedabad,66.0,-12.0,5,Clothing,Stole,330.0
+B-25601,2018-01-04,Bharat,Gujarat,Ahmedabad,8.0,-2.0,3,Clothing,Hankerchief,24.0
+B-25601,2018-01-04,Bharat,Gujarat,Ahmedabad,80.0,-56.0,4,Electronics,Electronic Games,320.0
+B-25602,2018-01-04,Pearl,Maharashtra,Pune,168.0,-111.0,2,Electronics,Phones,336.0
+B-25602,2018-01-04,Pearl,Maharashtra,Pune,424.0,-272.0,5,Electronics,Phones,2120.0
+B-25602,2018-01-04,Pearl,Maharashtra,Pune,2617.0,1151.0,4,Electronics,Phones,10468.0
+B-25602,2018-01-04,Pearl,Maharashtra,Pune,561.0,212.0,3,Clothing,Saree,1683.0
+B-25602,2018-01-04,Pearl,Maharashtra,Pune,119.0,-5.0,8,Clothing,Saree,952.0
+B-25603,2018-03-04,Jahan,Madhya Pradesh,Bhopal,1355.0,-60.0,5,Clothing,Trousers,6775.0
+B-25603,2018-03-04,Jahan,Madhya Pradesh,Bhopal,24.0,-30.0,1,Furniture,Chairs,24.0
+B-25603,2018-03-04,Jahan,Madhya Pradesh,Bhopal,193.0,-166.0,3,Clothing,Saree,579.0
+B-25603,2018-03-04,Jahan,Madhya Pradesh,Bhopal,180.0,5.0,3,Clothing,Trousers,540.0
+B-25603,2018-03-04,Jahan,Madhya Pradesh,Bhopal,116.0,16.0,4,Clothing,Stole,464.0
+B-25603,2018-03-04,Jahan,Madhya Pradesh,Bhopal,107.0,36.0,6,Clothing,Stole,642.0
+B-25603,2018-03-04,Jahan,Madhya Pradesh,Bhopal,12.0,1.0,2,Clothing,Hankerchief,24.0
+B-25603,2018-03-04,Jahan,Madhya Pradesh,Bhopal,38.0,18.0,1,Clothing,Kurti,38.0
+B-25604,2018-03-04,Divsha,Rajasthan,Jaipur,65.0,17.0,2,Clothing,T-shirt,130.0
+B-25604,2018-03-04,Divsha,Rajasthan,Jaipur,157.0,5.0,9,Clothing,Saree,1413.0
+B-25605,2018-05-04,Kasheen,West Bengal,Kolkata,75.0,0.0,7,Clothing,Saree,525.0
+B-25606,2018-06-04,Hazel,Karnataka,Bangalore,87.0,4.0,2,Clothing,Shirt,174.0
+B-25607,2018-06-04,Sonakshi,Jammu and Kashmir,Kashmir,50.0,15.0,4,Clothing,Leggings,200.0
+B-25608,2018-08-04,Aarushi,Tamil Nadu,Chennai,1364.0,-1864.0,5,Furniture,Tables,6820.0
+B-25608,2018-08-04,Aarushi,Tamil Nadu,Chennai,476.0,0.0,3,Furniture,Chairs,1428.0
+B-25608,2018-08-04,Aarushi,Tamil Nadu,Chennai,257.0,23.0,5,Clothing,Hankerchief,1285.0
+B-25608,2018-08-04,Aarushi,Tamil Nadu,Chennai,856.0,385.0,6,Electronics,Printers,5136.0
+B-25609,2018-09-04,Jitesh,Uttar Pradesh,Lucknow,485.0,29.0,4,Electronics,Electronic Games,1940.0
+B-25609,2018-09-04,Jitesh,Uttar Pradesh,Lucknow,25.0,-5.0,4,Clothing,Saree,100.0
+B-25610,2018-09-04,Yogesh,Bihar,Patna,1076.0,-38.0,4,Electronics,Printers,4304.0
+B-25610,2018-09-04,Yogesh,Bihar,Patna,107.0,-54.0,4,Clothing,Stole,428.0
+B-25610,2018-09-04,Yogesh,Bihar,Patna,68.0,-55.0,5,Electronics,Accessories,340.0
+B-25610,2018-09-04,Yogesh,Bihar,Patna,781.0,-594.0,6,Electronics,Printers,4686.0
+B-25610,2018-09-04,Yogesh,Bihar,Patna,43.0,0.0,3,Clothing,Saree,129.0
+B-25610,2018-09-04,Yogesh,Bihar,Patna,30.0,-5.0,2,Furniture,Furnishings,60.0
+B-25611,2018-11-04,Anita,Kerala ,Thiruvananthapuram,160.0,-59.0,2,Clothing,Saree,320.0
+B-25612,2018-12-04,Shrichand,Punjab,Chandigarh,259.0,-55.0,2,Furniture,Chairs,518.0
+B-25613,2018-12-04,Mukesh,Haryana,Chandigarh,1603.0,0.0,9,Clothing,Saree,14427.0
+B-25645,2018-01-05,Yaanvi,Madhya Pradesh,Indore,273.0,-87.0,4,Electronics,Phones,1092.0
+B-25645,2018-01-05,Yaanvi,Madhya Pradesh,Indore,86.0,0.0,4,Clothing,T-shirt,344.0
+B-25645,2018-01-05,Yaanvi,Madhya Pradesh,Indore,133.0,-42.0,1,Electronics,Printers,133.0
+B-25645,2018-01-05,Yaanvi,Madhya Pradesh,Indore,183.0,-66.0,5,Electronics,Phones,915.0
+B-25646,2018-01-05,Sonal,Bihar,Patna,20.0,-8.0,2,Clothing,Saree,40.0
+B-25647,2018-03-05,Sharda,Kerala ,Thiruvananthapuram,42.0,-6.0,4,Clothing,Saree,168.0
+B-25648,2018-04-05,Aditya,Punjab,Chandigarh,100.0,-23.0,1,Electronics,Phones,100.0
+B-25648,2018-04-05,Aditya,Punjab,Chandigarh,30.0,13.0,1,Clothing,T-shirt,30.0
+B-25648,2018-04-05,Aditya,Punjab,Chandigarh,55.0,-26.0,4,Clothing,Saree,220.0
+B-25648,2018-04-05,Aditya,Punjab,Chandigarh,130.0,-41.0,4,Clothing,Saree,520.0
+B-25649,2018-05-05,Rachna,Haryana,Chandigarh,27.0,-25.0,2,Clothing,Stole,54.0
+B-25650,2018-06-05,Chirag,Maharashtra,Mumbai,245.0,-78.0,2,Electronics,Printers,490.0
+B-25650,2018-06-05,Chirag,Maharashtra,Mumbai,211.0,-105.0,2,Clothing,Saree,422.0
+B-25650,2018-06-05,Chirag,Maharashtra,Mumbai,31.0,-2.0,2,Clothing,Saree,62.0
+B-25650,2018-06-05,Chirag,Maharashtra,Mumbai,28.0,-26.0,2,Clothing,Stole,56.0
+B-25650,2018-06-05,Chirag,Maharashtra,Mumbai,512.0,-225.0,5,Clothing,Saree,2560.0
+B-25650,2018-06-05,Chirag,Maharashtra,Mumbai,925.0,-447.0,5,Electronics,Electronic Games,4625.0
+B-25650,2018-06-05,Chirag,Maharashtra,Mumbai,238.0,20.0,2,Clothing,Saree,476.0
+B-25650,2018-06-05,Chirag,Maharashtra,Mumbai,351.0,-47.0,8,Electronics,Phones,2808.0
+B-25650,2018-06-05,Chirag,Maharashtra,Mumbai,269.0,111.0,3,Clothing,Trousers,807.0
+B-25651,2018-07-05,Anurag,Madhya Pradesh,Indore,200.0,-60.0,4,Furniture,Bookcases,800.0
+B-25651,2018-07-05,Anurag,Madhya Pradesh,Indore,44.0,-8.0,3,Clothing,Stole,132.0
+B-25651,2018-07-05,Anurag,Madhya Pradesh,Indore,7.0,0.0,1,Clothing,Leggings,7.0
+B-25651,2018-07-05,Anurag,Madhya Pradesh,Indore,11.0,-4.0,2,Clothing,Skirt,22.0
+B-25651,2018-07-05,Anurag,Madhya Pradesh,Indore,16.0,-10.0,2,Clothing,T-shirt,32.0
+B-25651,2018-07-05,Anurag,Madhya Pradesh,Indore,172.0,-103.0,3,Furniture,Chairs,516.0
+B-25651,2018-07-05,Anurag,Madhya Pradesh,Indore,49.0,3.0,1,Clothing,Shirt,49.0
+B-25651,2018-07-05,Anurag,Madhya Pradesh,Indore,823.0,-18.0,7,Furniture,Chairs,5761.0
+B-25651,2018-07-05,Anurag,Madhya Pradesh,Indore,23.0,4.0,1,Clothing,Saree,23.0
+B-25651,2018-07-05,Anurag,Madhya Pradesh,Indore,457.0,-41.0,4,Clothing,Saree,1828.0
+B-25652,2018-08-05,Tushina,Goa,Goa,24.0,-21.0,7,Clothing,Skirt,168.0
+B-25652,2018-08-05,Tushina,Goa,Goa,25.0,-2.0,5,Clothing,Hankerchief,125.0
+B-25652,2018-08-05,Tushina,Goa,Goa,174.0,-70.0,3,Electronics,Accessories,522.0
+B-25652,2018-08-05,Tushina,Goa,Goa,206.0,-206.0,3,Clothing,Saree,618.0
+B-25652,2018-08-05,Tushina,Goa,Goa,21.0,-13.0,3,Clothing,Leggings,63.0
+B-25652,2018-08-05,Tushina,Goa,Goa,34.0,-6.0,4,Clothing,Leggings,136.0
+B-25652,2018-08-05,Tushina,Goa,Goa,9.0,-6.0,2,Clothing,Hankerchief,18.0
+B-25653,2018-08-05,Farah,Nagaland,Kohima,1279.0,-640.0,8,Electronics,Printers,10232.0
+B-25653,2018-08-05,Farah,Nagaland,Kohima,28.0,-3.0,2,Clothing,Saree,56.0
+B-25653,2018-08-05,Farah,Nagaland,Kohima,427.0,-50.0,7,Electronics,Phones,2989.0
+B-25653,2018-08-05,Farah,Nagaland,Kohima,168.0,-10.0,3,Electronics,Accessories,504.0
+B-25653,2018-08-05,Farah,Nagaland,Kohima,1327.0,318.0,8,Furniture,Chairs,10616.0
+B-25653,2018-08-05,Farah,Nagaland,Kohima,195.0,-117.0,5,Electronics,Phones,975.0
+B-25653,2018-08-05,Farah,Nagaland,Kohima,115.0,25.0,1,Electronics,Accessories,115.0
+B-25653,2018-08-05,Farah,Nagaland,Kohima,668.0,-31.0,3,Electronics,Printers,2004.0
+B-25653,2018-08-05,Farah,Nagaland,Kohima,227.0,102.0,8,Electronics,Accessories,1816.0
+B-25654,2018-10-05,Sabah,Maharashtra,Mumbai,34.0,12.0,3,Clothing,Hankerchief,102.0
+B-25654,2018-10-05,Sabah,Maharashtra,Mumbai,229.0,-23.0,2,Clothing,Saree,458.0
+B-25654,2018-10-05,Sabah,Maharashtra,Mumbai,54.0,-3.0,3,Clothing,Saree,162.0
+B-25654,2018-10-05,Sabah,Maharashtra,Mumbai,269.0,-86.0,2,Electronics,Electronic Games,538.0
+B-25654,2018-10-05,Sabah,Maharashtra,Mumbai,122.0,-21.0,3,Furniture,Furnishings,366.0
+B-25654,2018-10-05,Sabah,Maharashtra,Mumbai,105.0,46.0,2,Clothing,Stole,210.0
+B-25654,2018-10-05,Sabah,Maharashtra,Mumbai,450.0,-90.0,3,Electronics,Printers,1350.0
+B-25654,2018-10-05,Sabah,Maharashtra,Mumbai,121.0,-17.0,3,Furniture,Furnishings,363.0
+B-25655,2018-11-05,Nida,Madhya Pradesh,Indore,44.0,-26.0,3,Clothing,Hankerchief,132.0
+B-25655,2018-11-05,Nida,Madhya Pradesh,Indore,7.0,-4.0,3,Clothing,Hankerchief,21.0
+B-25655,2018-11-05,Nida,Madhya Pradesh,Indore,396.0,-31.0,9,Clothing,Saree,3564.0
+B-25655,2018-11-05,Nida,Madhya Pradesh,Indore,97.0,-62.0,2,Clothing,Trousers,194.0
+B-25655,2018-11-05,Nida,Madhya Pradesh,Indore,110.0,-68.0,4,Clothing,Saree,440.0
+B-25655,2018-11-05,Nida,Madhya Pradesh,Indore,312.0,-312.0,7,Furniture,Chairs,2184.0
+B-25655,2018-11-05,Nida,Madhya Pradesh,Indore,9.0,-6.0,2,Clothing,Skirt,18.0
+B-25655,2018-11-05,Nida,Madhya Pradesh,Indore,6.0,-3.0,1,Clothing,Hankerchief,6.0
+B-25655,2018-11-05,Nida,Madhya Pradesh,Indore,74.0,23.0,8,Clothing,Skirt,592.0
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,534.0,0.0,3,Clothing,Saree,1602.0
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,30.0,-5.0,5,Clothing,Stole,150.0
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,61.0,-23.0,2,Clothing,Saree,122.0
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,6.0,3.0,1,Clothing,Hankerchief,6.0
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,24.0,-1.0,2,Clothing,Hankerchief,48.0
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,56.0,18.0,2,Clothing,Hankerchief,112.0
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,406.0,126.0,2,Clothing,Saree,812.0
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,624.0,37.0,2,Electronics,Electronic Games,1248.0
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,101.0,18.0,9,Clothing,Skirt,909.0
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,1389.0,680.0,7,Clothing,Saree,9723.0
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,651.0,169.0,5,Electronics,Printers,3255.0
+B-25656,2018-11-05,Priyanka,Maharashtra,Pune,13.0,-1.0,3,Clothing,Hankerchief,39.0
+B-25676,2018-01-06,Chandni,Rajasthan,Jaipur,342.0,-103.0,4,Electronics,Electronic Games,1368.0
+B-25676,2018-01-06,Chandni,Rajasthan,Jaipur,1263.0,-56.0,5,Clothing,Trousers,6315.0
+B-25676,2018-01-06,Chandni,Rajasthan,Jaipur,674.0,-187.0,2,Furniture,Tables,1348.0
+B-25676,2018-01-06,Chandni,Rajasthan,Jaipur,32.0,6.0,3,Clothing,Shirt,96.0
+B-25676,2018-01-06,Chandni,Rajasthan,Jaipur,79.0,36.0,4,Clothing,Shirt,316.0
+B-25677,2018-02-06,Ekta,West Bengal,Kolkata,20.0,-2.0,1,Electronics,Accessories,20.0
+B-25678,2018-03-06,Bathina,Karnataka,Bangalore,64.0,-7.0,3,Clothing,Saree,192.0
+B-25678,2018-03-06,Bathina,Karnataka,Bangalore,7.0,-3.0,2,Clothing,Skirt,14.0
+B-25678,2018-03-06,Bathina,Karnataka,Bangalore,327.0,-39.0,1,Electronics,Phones,327.0
+B-25678,2018-03-06,Bathina,Karnataka,Bangalore,27.0,-25.0,2,Clothing,Shirt,54.0
+B-25679,2018-04-06,Avni,Maharashtra,Mumbai,76.0,-50.0,1,Clothing,Saree,76.0
+B-25680,2018-04-06,Aayushi,Madhya Pradesh,Indore,73.0,-25.0,3,Clothing,Saree,219.0
+B-25681,2018-04-06,Bhawna,Madhya Pradesh,Indore,68.0,-27.0,3,Electronics,Accessories,204.0
+B-25681,2018-04-06,Bhawna,Madhya Pradesh,Indore,523.0,204.0,7,Clothing,Trousers,3661.0
+B-25681,2018-04-06,Bhawna,Madhya Pradesh,Indore,44.0,-3.0,1,Clothing,Saree,44.0
+B-25681,2018-04-06,Bhawna,Madhya Pradesh,Indore,243.0,-14.0,2,Furniture,Chairs,486.0
+B-25681,2018-04-06,Bhawna,Madhya Pradesh,Indore,1625.0,-77.0,3,Electronics,Phones,4875.0
+B-25681,2018-04-06,Bhawna,Madhya Pradesh,Indore,1096.0,-658.0,7,Electronics,Electronic Games,7672.0
+B-25682,2018-07-06,Krutika,Bihar,Patna,545.0,-73.0,11,Electronics,Phones,5995.0
+B-25683,2018-08-06,Shreya,Kerala ,Thiruvananthapuram,433.0,26.0,3,Electronics,Printers,1299.0
+B-25683,2018-08-06,Shreya,Kerala ,Thiruvananthapuram,245.0,-3.0,4,Electronics,Phones,980.0
+B-25683,2018-08-06,Shreya,Kerala ,Thiruvananthapuram,155.0,56.0,3,Furniture,Furnishings,465.0
+B-25683,2018-08-06,Shreya,Kerala ,Thiruvananthapuram,148.0,52.0,5,Clothing,Stole,740.0
+B-25683,2018-08-06,Shreya,Kerala ,Thiruvananthapuram,86.0,-55.0,6,Clothing,Saree,516.0
+B-25684,2018-09-06,Samiksha,Maharashtra,Mumbai,134.0,42.0,2,Furniture,Chairs,268.0
+B-25685,2018-10-06,Sheetal,Madhya Pradesh,Indore,51.0,7.0,2,Furniture,Furnishings,102.0
+B-25685,2018-10-06,Sheetal,Madhya Pradesh,Indore,529.0,137.0,3,Electronics,Phones,1587.0
+B-25685,2018-10-06,Sheetal,Madhya Pradesh,Indore,264.0,-30.0,3,Furniture,Furnishings,792.0
+B-25685,2018-10-06,Sheetal,Madhya Pradesh,Indore,45.0,-2.0,4,Clothing,Shirt,180.0
+B-25686,2018-11-06,Pooja,Himachal Pradesh,Simla,381.0,-13.0,2,Clothing,Saree,762.0
+B-25686,2018-11-06,Pooja,Himachal Pradesh,Simla,332.0,-503.0,3,Electronics,Printers,996.0
+B-25686,2018-11-06,Pooja,Himachal Pradesh,Simla,1829.0,-56.0,6,Furniture,Tables,10974.0
+B-25687,2018-11-06,Sanjna,Maharashtra,Mumbai,17.0,6.0,1,Clothing,Stole,17.0
+B-25687,2018-11-06,Sanjna,Maharashtra,Mumbai,357.0,139.0,2,Clothing,Saree,714.0
+B-25687,2018-11-06,Sanjna,Maharashtra,Mumbai,51.0,21.0,3,Clothing,T-shirt,153.0
+B-25687,2018-11-06,Sanjna,Maharashtra,Mumbai,387.0,-213.0,5,Clothing,Saree,1935.0
+B-25687,2018-11-06,Sanjna,Maharashtra,Mumbai,14.0,-1.0,4,Clothing,Kurti,56.0
+B-25688,2018-11-06,Swetha,Madhya Pradesh,Indore,352.0,-345.0,5,Clothing,Saree,1760.0
+B-25706,2018-01-07,Swetlana,Goa,Goa,31.0,-11.0,4,Clothing,Stole,124.0
+B-25707,2018-01-07,Shivani,Maharashtra,Mumbai,8.0,-6.0,1,Clothing,Stole,8.0
+B-25708,2018-01-07,Kishwar,Madhya Pradesh,Indore,191.0,13.0,8,Furniture,Furnishings,1528.0
+B-25708,2018-01-07,Kishwar,Madhya Pradesh,Indore,709.0,-100.0,5,Electronics,Phones,3545.0
+B-25708,2018-01-07,Kishwar,Madhya Pradesh,Indore,81.0,-51.0,7,Clothing,Stole,567.0
+B-25708,2018-01-07,Kishwar,Madhya Pradesh,Indore,32.0,-8.0,2,Clothing,Stole,64.0
+B-25709,2018-01-07,Aakanksha,Madhya Pradesh,Indore,33.0,-12.0,7,Clothing,Saree,231.0
+B-25709,2018-01-07,Aakanksha,Madhya Pradesh,Indore,41.0,-6.0,1,Furniture,Chairs,41.0
+B-25710,2018-05-07,Megha,Maharashtra,Pune,216.0,-38.0,6,Furniture,Furnishings,1296.0
+B-25710,2018-05-07,Megha,Maharashtra,Pune,616.0,-69.0,7,Furniture,Furnishings,4312.0
+B-25710,2018-05-07,Megha,Maharashtra,Pune,10.0,-1.0,1,Clothing,Leggings,10.0
+B-25710,2018-05-07,Megha,Maharashtra,Pune,25.0,0.0,4,Clothing,Skirt,100.0
+B-25710,2018-05-07,Megha,Maharashtra,Pune,53.0,-18.0,4,Clothing,T-shirt,212.0
+B-25710,2018-05-07,Megha,Maharashtra,Pune,13.0,-8.0,1,Clothing,T-shirt,13.0
+B-25711,2018-06-07,Sakshi,Madhya Pradesh,Bhopal,100.0,-58.0,4,Clothing,Hankerchief,400.0
+B-25712,2018-07-07,Adhvaita,Rajasthan,Jaipur,193.0,-275.0,3,Electronics,Phones,579.0
+B-25713,2018-08-07,Raksha,West Bengal,Kolkata,158.0,-63.0,4,Furniture,Chairs,632.0
+B-25714,2018-09-07,Stuti,Karnataka,Bangalore,11.0,-5.0,2,Clothing,Hankerchief,22.0
+B-25714,2018-09-07,Stuti,Karnataka,Bangalore,340.0,20.0,7,Clothing,Shirt,2380.0
+B-25715,2018-10-07,Srishti,Jammu and Kashmir,Kashmir,416.0,137.0,3,Electronics,Phones,1248.0
+B-25716,2018-11-07,Surabhi,Tamil Nadu,Chennai,58.0,0.0,4,Clothing,Saree,232.0
+B-25717,2018-12-07,Manshul,Uttar Pradesh,Lucknow,561.0,212.0,3,Clothing,Saree,1683.0
+B-25717,2018-12-07,Manshul,Uttar Pradesh,Lucknow,138.0,-3.0,5,Clothing,Saree,690.0
+B-25717,2018-12-07,Manshul,Uttar Pradesh,Lucknow,90.0,17.0,3,Clothing,Shirt,270.0
+B-25717,2018-12-07,Manshul,Uttar Pradesh,Lucknow,55.0,-33.0,2,Furniture,Chairs,110.0
+B-25718,2018-12-07,Anjali,Maharashtra,Mumbai,371.0,115.0,1,Furniture,Bookcases,371.0
+B-25718,2018-12-07,Anjali,Maharashtra,Mumbai,460.0,31.0,3,Furniture,Bookcases,1380.0
+B-25719,2018-12-07,Rashmi,Madhya Pradesh,Indore,29.0,10.0,2,Clothing,Stole,58.0
+B-25737,2018-01-08,Shubham,Madhya Pradesh,Indore,187.0,-15.0,3,Clothing,Trousers,561.0
+B-25738,2018-02-08,Ayush,Punjab,Chandigarh,70.0,-14.0,2,Furniture,Furnishings,140.0
+B-25738,2018-02-08,Ayush,Punjab,Chandigarh,72.0,-6.0,3,Clothing,Saree,216.0
+B-25738,2018-02-08,Ayush,Punjab,Chandigarh,1069.0,0.0,6,Clothing,Saree,6414.0
+B-25738,2018-02-08,Ayush,Punjab,Chandigarh,148.0,-91.0,2,Electronics,Phones,296.0
+B-25739,2018-03-08,Daksh,Haryana,Chandigarh,133.0,-56.0,2,Furniture,Chairs,266.0
+B-25740,2018-03-08,Rane,Maharashtra,Mumbai,40.0,-37.0,3,Clothing,Stole,120.0
+B-25740,2018-03-08,Rane,Maharashtra,Mumbai,7.0,0.0,2,Clothing,Skirt,14.0
+B-25740,2018-03-08,Rane,Maharashtra,Mumbai,58.0,-8.0,2,Clothing,Saree,116.0
+B-25741,2018-03-08,Navdeep,Madhya Pradesh,Indore,482.0,-6.0,7,Electronics,Electronic Games,3374.0
+B-25742,2018-03-08,Ashwin,Goa,Goa,11.0,-8.0,2,Clothing,Skirt,22.0
+B-25743,2018-07-08,Aman,Nagaland,Kohima,143.0,-124.0,5,Clothing,Saree,715.0
+B-25743,2018-07-08,Aman,Nagaland,Kohima,9.0,-5.0,1,Clothing,Saree,9.0
+B-25743,2018-07-08,Aman,Nagaland,Kohima,503.0,-56.0,2,Clothing,Trousers,1006.0
+B-25743,2018-07-08,Aman,Nagaland,Kohima,74.0,-51.0,3,Clothing,Stole,222.0
+B-25743,2018-07-08,Aman,Nagaland,Kohima,56.0,0.0,4,Clothing,Hankerchief,224.0
+B-25744,2018-08-08,Devendra,Andhra Pradesh,Hyderabad,373.0,-254.0,6,Electronics,Printers,2238.0
+B-25745,2018-09-08,Kartik,Gujarat,Ahmedabad,44.0,-8.0,3,Clothing,Stole,132.0
+B-25745,2018-09-08,Kartik,Gujarat,Ahmedabad,296.0,-225.0,11,Clothing,Saree,3256.0
+B-25745,2018-09-08,Kartik,Gujarat,Ahmedabad,670.0,15.0,5,Furniture,Bookcases,3350.0
+B-25745,2018-09-08,Kartik,Gujarat,Ahmedabad,132.0,-79.0,5,Furniture,Furnishings,660.0
+B-25746,2018-10-08,Shivam,Maharashtra,Pune,87.0,16.0,2,Clothing,Saree,174.0
+B-25747,2018-11-08,Harsh,Madhya Pradesh,Bhopal,877.0,395.0,2,Furniture,Bookcases,1754.0
+B-25748,2018-12-08,Nitant,Rajasthan,Jaipur,141.0,10.0,4,Clothing,Shirt,564.0
+B-25748,2018-12-08,Nitant,Rajasthan,Jaipur,224.0,58.0,3,Electronics,Phones,672.0
+B-25748,2018-12-08,Nitant,Rajasthan,Jaipur,8.0,-1.0,2,Clothing,Leggings,16.0
+B-25748,2018-12-08,Nitant,Rajasthan,Jaipur,47.0,-21.0,2,Electronics,Electronic Games,94.0
+B-25768,2018-01-09,Shreyoshe,Karnataka,Bangalore,1582.0,-443.0,6,Clothing,Trousers,9492.0
+B-25769,2018-02-09,Surbhi,Maharashtra,Mumbai,355.0,-4.0,2,Clothing,Saree,710.0
+B-25770,2018-02-09,Sakshi,Madhya Pradesh,Indore,375.0,180.0,3,Furniture,Bookcases,1125.0
+B-25770,2018-02-09,Sakshi,Madhya Pradesh,Indore,299.0,113.0,2,Furniture,Bookcases,598.0
+B-25770,2018-02-09,Sakshi,Madhya Pradesh,Indore,287.0,-280.0,12,Furniture,Chairs,3444.0
+B-25770,2018-02-09,Sakshi,Madhya Pradesh,Indore,110.0,35.0,1,Furniture,Furnishings,110.0
+B-25771,2018-02-09,Vaibhavi,Uttar Pradesh,Lucknow,148.0,59.0,3,Clothing,Hankerchief,444.0
+B-25772,2018-02-09,Sanjana,Bihar,Patna,1183.0,106.0,4,Electronics,Printers,4732.0
+B-25773,2018-06-09,Shreya,Kerala ,Thiruvananthapuram,248.0,-70.0,3,Furniture,Chairs,744.0
+B-25773,2018-06-09,Shreya,Kerala ,Thiruvananthapuram,85.0,-9.0,4,Clothing,Saree,340.0
+B-25773,2018-06-09,Shreya,Kerala ,Thiruvananthapuram,24.0,-14.0,2,Clothing,Saree,48.0
+B-25773,2018-06-09,Shreya,Kerala ,Thiruvananthapuram,209.0,-21.0,2,Electronics,Electronic Games,418.0
+B-25773,2018-06-09,Shreya,Kerala ,Thiruvananthapuram,224.0,-143.0,3,Furniture,Chairs,672.0
+B-25774,2018-07-09,Snehal,Punjab,Chandigarh,38.0,-6.0,2,Furniture,Furnishings,76.0
+B-25775,2018-08-09,Duhita,Haryana,Chandigarh,50.0,-17.0,2,Clothing,Stole,100.0
+B-25776,2018-09-09,Mousam,Maharashtra,Mumbai,47.0,-20.0,2,Clothing,Kurti,94.0
+B-25777,2018-10-09,Aditi,Madhya Pradesh,Indore,61.0,-25.0,4,Electronics,Accessories,244.0
+B-25777,2018-10-09,Aditi,Madhya Pradesh,Indore,69.0,-67.0,4,Clothing,Kurti,276.0
+B-25777,2018-10-09,Aditi,Madhya Pradesh,Indore,59.0,-46.0,7,Clothing,T-shirt,413.0
+B-25777,2018-10-09,Aditi,Madhya Pradesh,Indore,117.0,17.0,6,Clothing,Kurti,702.0
+B-25777,2018-10-09,Aditi,Madhya Pradesh,Indore,1076.0,-38.0,4,Electronics,Printers,4304.0
+B-25778,2018-11-09,Surabhi,Maharashtra,Mumbai,1506.0,-266.0,6,Electronics,Printers,9036.0
+B-25778,2018-11-09,Surabhi,Maharashtra,Mumbai,109.0,-6.0,6,Clothing,Saree,654.0
+B-25778,2018-11-09,Surabhi,Maharashtra,Mumbai,933.0,166.0,5,Clothing,Saree,4665.0
+B-25778,2018-11-09,Surabhi,Maharashtra,Mumbai,724.0,-447.0,4,Electronics,Electronic Games,2896.0
+B-25779,2018-12-09,Savi,Madhya Pradesh,Indore,1361.0,-980.0,3,Furniture,Tables,4083.0
+B-25798,2018-01-10,Shishu,Andhra Pradesh,Hyderabad,379.0,63.0,2,Clothing,Saree,758.0
+B-25798,2018-01-10,Shishu,Andhra Pradesh,Hyderabad,448.0,148.0,2,Electronics,Printers,896.0
+B-25798,2018-01-10,Shishu,Andhra Pradesh,Hyderabad,2830.0,-1981.0,13,Furniture,Bookcases,36790.0
+B-25798,2018-01-10,Shishu,Andhra Pradesh,Hyderabad,47.0,-3.0,2,Clothing,Stole,94.0
+B-25798,2018-01-10,Shishu,Andhra Pradesh,Hyderabad,38.0,-13.0,3,Clothing,Stole,114.0
+B-25798,2018-01-10,Shishu,Andhra Pradesh,Hyderabad,61.0,-50.0,4,Clothing,Hankerchief,244.0
+B-25799,2018-01-10,Divyansh,Gujarat,Ahmedabad,205.0,-119.0,3,Clothing,Saree,615.0
+B-25799,2018-01-10,Divyansh,Gujarat,Ahmedabad,47.0,-27.0,4,Clothing,Saree,188.0
+B-25799,2018-01-10,Divyansh,Gujarat,Ahmedabad,45.0,-15.0,2,Furniture,Chairs,90.0
+B-25799,2018-01-10,Divyansh,Gujarat,Ahmedabad,70.0,-64.0,5,Clothing,Stole,350.0
+B-25800,2018-01-10,Ishit,Maharashtra,Pune,122.0,-66.0,9,Electronics,Accessories,1098.0
+B-25800,2018-01-10,Ishit,Maharashtra,Pune,21.0,-6.0,3,Clothing,Leggings,63.0
+B-25800,2018-01-10,Ishit,Maharashtra,Pune,45.0,12.0,7,Clothing,Hankerchief,315.0
+B-25801,2018-01-10,Aryan,Madhya Pradesh,Bhopal,64.0,6.0,4,Clothing,Saree,256.0
+B-25801,2018-01-10,Aryan,Madhya Pradesh,Bhopal,49.0,-31.0,2,Clothing,Stole,98.0
+B-25801,2018-01-10,Aryan,Madhya Pradesh,Bhopal,21.0,-10.0,4,Clothing,Leggings,84.0
+B-25801,2018-01-10,Aryan,Madhya Pradesh,Bhopal,15.0,-2.0,1,Clothing,T-shirt,15.0
+B-25802,2018-05-10,Yash,Maharashtra,Mumbai,27.0,-7.0,5,Clothing,Saree,135.0
+B-25802,2018-05-10,Yash,Maharashtra,Mumbai,633.0,-633.0,11,Electronics,Accessories,6963.0
+B-25802,2018-05-10,Yash,Maharashtra,Mumbai,13.0,-9.0,2,Clothing,Skirt,26.0
+B-25802,2018-05-10,Yash,Maharashtra,Mumbai,23.0,-3.0,1,Clothing,Shirt,23.0
+B-25802,2018-05-10,Yash,Maharashtra,Mumbai,95.0,5.0,2,Clothing,Stole,190.0
+B-25803,2018-05-10,Shivanshu,Madhya Pradesh,Indore,106.0,12.0,3,Clothing,Trousers,318.0
+B-25803,2018-05-10,Shivanshu,Madhya Pradesh,Indore,269.0,91.0,1,Electronics,Electronic Games,269.0
+B-25803,2018-05-10,Shivanshu,Madhya Pradesh,Indore,536.0,91.0,1,Clothing,Trousers,536.0
+B-25803,2018-05-10,Shivanshu,Madhya Pradesh,Indore,137.0,5.0,5,Clothing,Shirt,685.0
+B-25803,2018-05-10,Shivanshu,Madhya Pradesh,Indore,757.0,371.0,2,Electronics,Printers,1514.0
+B-25803,2018-05-10,Shivanshu,Madhya Pradesh,Indore,511.0,194.0,3,Furniture,Chairs,1533.0
+B-25803,2018-05-10,Shivanshu,Madhya Pradesh,Indore,185.0,48.0,4,Clothing,Stole,740.0
+B-25803,2018-05-10,Shivanshu,Madhya Pradesh,Indore,765.0,8.0,6,Clothing,Saree,4590.0
+B-25804,2018-05-10,Sudheer,Karnataka,Bangalore,156.0,36.0,5,Clothing,T-shirt,780.0
+B-25804,2018-05-10,Sudheer,Karnataka,Bangalore,321.0,26.0,3,Electronics,Printers,963.0
+B-25805,2018-05-10,Ankit,Maharashtra,Mumbai,112.0,15.0,2,Furniture,Chairs,224.0
+B-25806,2018-06-10,Dhanraj,Madhya Pradesh,Indore,632.0,-114.0,4,Furniture,Tables,2528.0
+B-25807,2018-07-10,Vipul,Uttar Pradesh,Lucknow,16.0,6.0,1,Clothing,Stole,16.0
+B-25808,2018-08-10,Apsingekar,Bihar,Patna,63.0,17.0,6,Clothing,Leggings,378.0
+B-25808,2018-08-10,Apsingekar,Bihar,Patna,146.0,-63.0,3,Electronics,Electronic Games,438.0
+B-25808,2018-08-10,Apsingekar,Bihar,Patna,59.0,21.0,2,Clothing,Stole,118.0
+B-25808,2018-08-10,Apsingekar,Bihar,Patna,210.0,50.0,4,Clothing,Hankerchief,840.0
+B-25809,2018-09-10,Suman,Kerala ,Thiruvananthapuram,154.0,54.0,3,Clothing,Hankerchief,462.0
+B-25809,2018-09-10,Suman,Kerala ,Thiruvananthapuram,53.0,24.0,1,Clothing,Hankerchief,53.0
+B-25810,2018-10-10,Nripraj,Punjab,Chandigarh,26.0,10.0,4,Clothing,Hankerchief,104.0
+B-25810,2018-10-10,Nripraj,Punjab,Chandigarh,1120.0,199.0,6,Clothing,Saree,6720.0
+B-25810,2018-10-10,Nripraj,Punjab,Chandigarh,45.0,6.0,3,Clothing,Shirt,135.0
+B-25810,2018-10-10,Nripraj,Punjab,Chandigarh,307.0,74.0,3,Electronics,Accessories,921.0
+B-25810,2018-10-10,Nripraj,Punjab,Chandigarh,92.0,42.0,2,Clothing,Stole,184.0
+B-25810,2018-10-10,Nripraj,Punjab,Chandigarh,29.0,8.0,5,Clothing,Hankerchief,145.0
+B-25811,2018-10-10,Utsav,Maharashtra,Mumbai,126.0,52.0,4,Clothing,Hankerchief,504.0
+B-25812,2018-10-10,Kshitij,Madhya Pradesh,Indore,259.0,47.0,5,Clothing,Hankerchief,1295.0
+B-25813,2018-10-10,Hrisheekesh,Maharashtra,Mumbai,911.0,202.0,7,Furniture,Chairs,6377.0
+B-25814,2018-10-10,Swapnil,Madhya Pradesh,Indore,118.0,35.0,7,Clothing,T-shirt,826.0
+B-25814,2018-10-10,Swapnil,Madhya Pradesh,Indore,462.0,169.0,4,Clothing,Saree,1848.0
+B-25815,2018-10-10,Harsh,Nagaland,Kohima,35.0,14.0,2,Clothing,Stole,70.0
+B-25816,2018-12-10,Mane,Andhra Pradesh,Hyderabad,391.0,113.0,8,Clothing,Stole,3128.0
+B-25841,2018-01-11,Ashvini,Maharashtra,Mumbai,22.0,11.0,2,Clothing,Skirt,44.0
+B-25842,2018-02-11,Sheetal,Madhya Pradesh,Indore,1543.0,370.0,8,Electronics,Printers,12344.0
+B-25843,2018-03-11,Mrunal,Maharashtra,Mumbai,50.0,7.0,6,Clothing,Skirt,300.0
+B-25843,2018-03-11,Mrunal,Maharashtra,Mumbai,214.0,30.0,3,Electronics,Accessories,642.0
+B-25843,2018-03-11,Mrunal,Maharashtra,Mumbai,255.0,74.0,5,Clothing,Hankerchief,1275.0
+B-25843,2018-03-11,Mrunal,Maharashtra,Mumbai,18.0,6.0,3,Clothing,Hankerchief,54.0
+B-25843,2018-03-11,Mrunal,Maharashtra,Mumbai,45.0,0.0,2,Clothing,Stole,90.0
+B-25844,2018-03-11,Swati,Madhya Pradesh,Indore,86.0,8.0,2,Clothing,Saree,172.0
+B-25845,2018-03-11,Snel,Kerala ,Thiruvananthapuram,274.0,-7.0,4,Electronics,Phones,1096.0
+B-25845,2018-03-11,Snel,Kerala ,Thiruvananthapuram,82.0,33.0,4,Clothing,Kurti,328.0
+B-25845,2018-03-11,Snel,Kerala ,Thiruvananthapuram,757.0,371.0,2,Electronics,Printers,1514.0
+B-25845,2018-03-11,Snel,Kerala ,Thiruvananthapuram,132.0,54.0,5,Clothing,Stole,660.0
+B-25846,2018-03-11,Soodesh,Punjab,Chandigarh,94.0,7.0,7,Clothing,Leggings,658.0
+B-25847,2018-03-11,Aniket,Haryana,Chandigarh,643.0,225.0,2,Electronics,Printers,1286.0
+B-25847,2018-03-11,Aniket,Haryana,Chandigarh,264.0,71.0,10,Furniture,Furnishings,2640.0
+B-25848,2018-03-11,Rohan,Himachal Pradesh,Simla,147.0,21.0,3,Furniture,Furnishings,441.0
+B-25848,2018-03-11,Rohan,Himachal Pradesh,Simla,16.0,8.0,2,Clothing,Hankerchief,32.0
+B-25848,2018-03-11,Rohan,Himachal Pradesh,Simla,648.0,50.0,6,Electronics,Electronic Games,3888.0
+B-25849,2018-04-11,K,Sikkim,Gangtok,336.0,123.0,3,Electronics,Phones,1008.0
+B-25850,2018-05-11,Abhishek,Goa,Goa,45.0,1.0,3,Clothing,T-shirt,135.0
+B-25850,2018-05-11,Abhishek,Goa,Goa,93.0,-1.0,2,Clothing,Hankerchief,186.0
+B-25850,2018-05-11,Abhishek,Goa,Goa,52.0,18.0,5,Clothing,Leggings,260.0
+B-25850,2018-05-11,Abhishek,Goa,Goa,148.0,24.0,3,Clothing,Stole,444.0
+B-25850,2018-05-11,Abhishek,Goa,Goa,24.0,1.0,4,Clothing,Hankerchief,96.0
+B-25850,2018-05-11,Abhishek,Goa,Goa,513.0,215.0,2,Electronics,Accessories,1026.0
+B-25850,2018-05-11,Abhishek,Goa,Goa,117.0,36.0,2,Clothing,Trousers,234.0
+B-25850,2018-05-11,Abhishek,Goa,Goa,916.0,192.0,11,Electronics,Phones,10076.0
+B-25850,2018-05-11,Abhishek,Goa,Goa,485.0,199.0,4,Clothing,Saree,1940.0
+B-25851,2018-06-11,Kushal,Nagaland,Kohima,10.0,2.0,2,Clothing,Hankerchief,20.0
+B-25851,2018-06-11,Kushal,Nagaland,Kohima,300.0,42.0,2,Electronics,Printers,600.0
+B-25851,2018-06-11,Kushal,Nagaland,Kohima,57.0,27.0,2,Clothing,T-shirt,114.0
+B-25851,2018-06-11,Kushal,Nagaland,Kohima,103.0,46.0,2,Clothing,Saree,206.0
+B-25851,2018-06-11,Kushal,Nagaland,Kohima,336.0,71.0,3,Furniture,Bookcases,1008.0
+B-25851,2018-06-11,Kushal,Nagaland,Kohima,53.0,24.0,6,Clothing,Hankerchief,318.0
+B-25851,2018-06-11,Kushal,Nagaland,Kohima,90.0,29.0,5,Clothing,T-shirt,450.0
+B-25851,2018-06-11,Kushal,Nagaland,Kohima,62.0,1.0,3,Clothing,Saree,186.0
+B-25851,2018-06-11,Kushal,Nagaland,Kohima,135.0,54.0,5,Clothing,Kurti,675.0
+B-25851,2018-06-11,Kushal,Nagaland,Kohima,237.0,47.0,9,Clothing,T-shirt,2133.0
+B-25852,2018-07-11,Soumyabrata,Andhra Pradesh,Hyderabad,320.0,144.0,1,Electronics,Printers,320.0
+B-25852,2018-07-11,Soumyabrata,Andhra Pradesh,Hyderabad,24.0,1.0,2,Clothing,Hankerchief,48.0
+B-25852,2018-07-11,Soumyabrata,Andhra Pradesh,Hyderabad,45.0,12.0,4,Clothing,Hankerchief,180.0
+B-25852,2018-07-11,Soumyabrata,Andhra Pradesh,Hyderabad,97.0,17.0,2,Clothing,Stole,194.0
+B-25852,2018-07-11,Soumyabrata,Andhra Pradesh,Hyderabad,50.0,16.0,1,Clothing,Stole,50.0
+B-25852,2018-07-11,Soumyabrata,Andhra Pradesh,Hyderabad,869.0,67.0,4,Furniture,Tables,3476.0
+B-25852,2018-07-11,Soumyabrata,Andhra Pradesh,Hyderabad,105.0,33.0,5,Clothing,Kurti,525.0
+B-25853,2018-08-11,Gaurav,Gujarat,Ahmedabad,39.0,16.0,6,Clothing,Skirt,234.0
+B-25853,2018-08-11,Gaurav,Gujarat,Ahmedabad,30.0,14.0,3,Clothing,Hankerchief,90.0
+B-25853,2018-08-11,Gaurav,Gujarat,Ahmedabad,26.0,11.0,2,Clothing,Hankerchief,52.0
+B-25853,2018-08-11,Gaurav,Gujarat,Ahmedabad,19.0,6.0,2,Clothing,Saree,38.0
+B-25853,2018-08-11,Gaurav,Gujarat,Ahmedabad,579.0,139.0,3,Electronics,Printers,1737.0
+B-25853,2018-08-11,Gaurav,Gujarat,Ahmedabad,2093.0,721.0,5,Furniture,Chairs,10465.0
+B-25853,2018-08-11,Gaurav,Gujarat,Ahmedabad,95.0,11.0,4,Furniture,Furnishings,380.0
+B-25853,2018-08-11,Gaurav,Gujarat,Ahmedabad,128.0,4.0,3,Clothing,Saree,384.0
+B-25853,2018-08-11,Gaurav,Gujarat,Ahmedabad,199.0,48.0,4,Clothing,Stole,796.0
+B-25854,2018-08-11,Shubham,Maharashtra,Pune,149.0,48.0,6,Clothing,Stole,894.0
+B-25854,2018-08-11,Shubham,Maharashtra,Pune,436.0,131.0,9,Clothing,Hankerchief,3924.0
+B-25854,2018-08-11,Shubham,Maharashtra,Pune,76.0,19.0,3,Clothing,Hankerchief,228.0
+B-25854,2018-08-11,Shubham,Maharashtra,Pune,88.0,16.0,4,Clothing,Stole,352.0
+B-25854,2018-08-11,Shubham,Maharashtra,Pune,342.0,154.0,7,Furniture,Furnishings,2394.0
+B-25854,2018-08-11,Shubham,Maharashtra,Pune,40.0,16.0,3,Clothing,Hankerchief,120.0
+B-25854,2018-08-11,Shubham,Maharashtra,Pune,53.0,-2.0,3,Clothing,Saree,159.0
+B-25854,2018-08-11,Shubham,Maharashtra,Pune,381.0,144.0,2,Clothing,Saree,762.0
+B-25855,2018-08-11,Abhijeet,Madhya Pradesh,Bhopal,829.0,19.0,4,Electronics,Printers,3316.0
+B-25855,2018-08-11,Abhijeet,Madhya Pradesh,Bhopal,442.0,31.0,2,Electronics,Electronic Games,884.0
+B-25855,2018-08-11,Abhijeet,Madhya Pradesh,Bhopal,90.0,17.0,3,Clothing,Hankerchief,270.0
+B-25855,2018-08-11,Abhijeet,Madhya Pradesh,Bhopal,98.0,12.0,2,Clothing,Hankerchief,196.0
+B-25855,2018-08-11,Abhijeet,Madhya Pradesh,Bhopal,61.0,30.0,2,Clothing,Hankerchief,122.0
+B-25855,2018-08-11,Abhijeet,Madhya Pradesh,Bhopal,1027.0,441.0,8,Clothing,Saree,8216.0
+B-25855,2018-08-11,Abhijeet,Madhya Pradesh,Bhopal,1319.0,567.0,5,Electronics,Printers,6595.0
+B-25855,2018-08-11,Abhijeet,Madhya Pradesh,Bhopal,197.0,73.0,1,Furniture,Bookcases,197.0
+B-25855,2018-08-11,Abhijeet,Madhya Pradesh,Bhopal,550.0,242.0,5,Furniture,Furnishings,2750.0
+B-25856,2018-10-11,Abhijeet,Maharashtra,Mumbai,74.0,29.0,3,Clothing,Stole,222.0
+B-25856,2018-10-11,Abhijeet,Maharashtra,Mumbai,10.0,2.0,2,Clothing,Skirt,20.0
+B-25856,2018-10-11,Abhijeet,Maharashtra,Mumbai,689.0,90.0,5,Clothing,Saree,3445.0
+B-25856,2018-10-11,Abhijeet,Maharashtra,Mumbai,257.0,3.0,2,Clothing,Saree,514.0
+B-25856,2018-10-11,Abhijeet,Maharashtra,Mumbai,48.0,6.0,1,Clothing,Saree,48.0
+B-25857,2018-10-11,Anand,Madhya Pradesh,Indore,324.0,39.0,8,Electronics,Accessories,2592.0
+B-25857,2018-10-11,Anand,Madhya Pradesh,Indore,598.0,166.0,4,Furniture,Bookcases,2392.0
+B-25857,2018-10-11,Anand,Madhya Pradesh,Indore,227.0,59.0,2,Furniture,Furnishings,454.0
+B-25887,2018-01-12,Vedant,Uttar Pradesh,Allahabad,83.0,6.0,6,Clothing,Shirt,498.0
+B-25887,2018-01-12,Vedant,Uttar Pradesh,Allahabad,2125.0,234.0,6,Electronics,Printers,12750.0
+B-25888,2018-02-12,Rohan,Punjab,Amritsar,18.0,2.0,3,Clothing,Hankerchief,54.0
+B-25888,2018-02-12,Rohan,Punjab,Amritsar,223.0,4.0,3,Electronics,Phones,669.0
+B-25888,2018-02-12,Rohan,Punjab,Amritsar,646.0,213.0,3,Electronics,Electronic Games,1938.0
+B-25889,2018-03-12,Abhishek,Gujarat,Surat,31.0,10.0,1,Clothing,Kurti,31.0
+B-25889,2018-03-12,Abhishek,Gujarat,Surat,119.0,43.0,7,Clothing,Kurti,833.0
+B-25889,2018-03-12,Abhishek,Gujarat,Surat,114.0,11.0,4,Clothing,T-shirt,456.0
+B-25890,2018-04-12,Divyansha,Maharashtra,Mumbai,465.0,207.0,9,Clothing,Saree,4185.0
+B-25891,2018-04-12,Shivani,Madhya Pradesh,Indore,25.0,2.0,2,Clothing,Hankerchief,50.0
+B-25891,2018-04-12,Shivani,Madhya Pradesh,Indore,97.0,36.0,7,Clothing,Hankerchief,679.0
+B-25891,2018-04-12,Shivani,Madhya Pradesh,Indore,121.0,41.0,4,Clothing,Stole,484.0
+B-25892,2018-04-12,Aditi,Rajasthan,Udaipur,139.0,30.0,3,Clothing,Shirt,417.0
+B-25893,2018-04-12,Aashna,Uttar Pradesh,Allahabad,355.0,114.0,7,Clothing,Stole,2485.0
+B-25893,2018-04-12,Aashna,Uttar Pradesh,Allahabad,61.0,11.0,3,Clothing,Kurti,183.0
+B-25893,2018-04-12,Aashna,Uttar Pradesh,Allahabad,149.0,15.0,3,Clothing,Saree,447.0
+B-25893,2018-04-12,Aashna,Uttar Pradesh,Allahabad,688.0,103.0,6,Electronics,Accessories,4128.0
+B-25893,2018-04-12,Aashna,Uttar Pradesh,Allahabad,372.0,59.0,3,Electronics,Printers,1116.0
+B-25893,2018-04-12,Aashna,Uttar Pradesh,Allahabad,223.0,62.0,7,Clothing,Shirt,1561.0
+B-25893,2018-04-12,Aashna,Uttar Pradesh,Allahabad,83.0,12.0,3,Clothing,Stole,249.0
+B-25894,2018-04-12,Monu,Punjab,Amritsar,1246.0,62.0,3,Furniture,Bookcases,3738.0
+B-25895,2018-04-12,Sathya,Gujarat,Surat,388.0,93.0,2,Furniture,Bookcases,776.0
+B-25896,2018-05-12,Aman,Maharashtra,Mumbai,31.0,11.0,3,Clothing,Skirt,93.0
+B-25896,2018-05-12,Aman,Maharashtra,Mumbai,42.0,7.0,2,Clothing,Kurti,84.0
+B-25896,2018-05-12,Aman,Maharashtra,Mumbai,190.0,68.0,8,Clothing,T-shirt,1520.0
+B-25896,2018-05-12,Aman,Maharashtra,Mumbai,103.0,36.0,2,Clothing,Hankerchief,206.0
+B-25896,2018-05-12,Aman,Maharashtra,Mumbai,287.0,66.0,6,Clothing,Kurti,1722.0
+B-25896,2018-05-12,Aman,Maharashtra,Mumbai,23.0,4.0,2,Clothing,Skirt,46.0
+B-25896,2018-05-12,Aman,Maharashtra,Mumbai,79.0,-2.0,2,Furniture,Furnishings,158.0
+B-25897,2018-06-12,Rohan,Madhya Pradesh,Indore,43.0,5.0,3,Clothing,Stole,129.0
+B-25897,2018-06-12,Rohan,Madhya Pradesh,Indore,33.0,10.0,3,Clothing,Hankerchief,99.0
+B-25897,2018-06-12,Rohan,Madhya Pradesh,Indore,24.0,11.0,5,Clothing,Hankerchief,120.0
+B-25897,2018-06-12,Rohan,Madhya Pradesh,Indore,734.0,213.0,6,Electronics,Electronic Games,4404.0
+B-25898,2018-07-12,Abhishek,Rajasthan,Udaipur,33.0,13.0,3,Clothing,Leggings,99.0
+B-25898,2018-07-12,Abhishek,Rajasthan,Udaipur,499.0,33.0,4,Clothing,Saree,1996.0
+B-25898,2018-07-12,Abhishek,Rajasthan,Udaipur,147.0,73.0,3,Clothing,Stole,441.0
+B-25898,2018-07-12,Abhishek,Rajasthan,Udaipur,53.0,5.0,3,Clothing,T-shirt,159.0
+B-25898,2018-07-12,Abhishek,Rajasthan,Udaipur,171.0,2.0,2,Electronics,Electronic Games,342.0
+B-25898,2018-07-12,Abhishek,Rajasthan,Udaipur,915.0,-99.0,3,Furniture,Tables,2745.0
+B-25898,2018-07-12,Abhishek,Rajasthan,Udaipur,191.0,93.0,4,Clothing,Shirt,764.0
+B-25898,2018-07-12,Abhishek,Rajasthan,Udaipur,857.0,274.0,2,Furniture,Tables,1714.0
+B-25899,2018-08-12,Aishwarya,Uttar Pradesh,Allahabad,22.0,9.0,2,Clothing,Leggings,44.0
+B-25899,2018-08-12,Aishwarya,Uttar Pradesh,Allahabad,28.0,6.0,4,Clothing,Skirt,112.0
+B-25899,2018-08-12,Aishwarya,Uttar Pradesh,Allahabad,43.0,17.0,1,Clothing,Saree,43.0
+B-25899,2018-08-12,Aishwarya,Uttar Pradesh,Allahabad,846.0,9.0,2,Furniture,Chairs,1692.0
+B-25900,2018-09-12,Anand,Punjab,Amritsar,15.0,2.0,1,Clothing,Leggings,15.0
+B-25900,2018-09-12,Anand,Punjab,Amritsar,140.0,68.0,5,Clothing,T-shirt,700.0
+B-25900,2018-09-12,Anand,Punjab,Amritsar,210.0,62.0,2,Electronics,Phones,420.0
+B-25901,2018-10-12,Suraj,Gujarat,Surat,158.0,38.0,3,Clothing,Hankerchief,474.0
+B-25901,2018-10-12,Suraj,Gujarat,Surat,90.0,27.0,2,Clothing,T-shirt,180.0
+B-25901,2018-10-12,Suraj,Gujarat,Surat,159.0,2.0,3,Furniture,Furnishings,477.0
+B-25901,2018-10-12,Suraj,Gujarat,Surat,61.0,28.0,2,Clothing,Hankerchief,122.0
+B-25902,2018-10-12,Ishpreet,Maharashtra,Mumbai,79.0,6.0,7,Clothing,Saree,553.0
+B-25902,2018-10-12,Ishpreet,Maharashtra,Mumbai,268.0,6.0,2,Furniture,Bookcases,536.0
+B-25902,2018-10-12,Ishpreet,Maharashtra,Mumbai,802.0,120.0,7,Electronics,Accessories,5614.0
+B-25902,2018-10-12,Ishpreet,Maharashtra,Mumbai,1700.0,85.0,3,Clothing,Trousers,5100.0
+B-25902,2018-10-12,Ishpreet,Maharashtra,Mumbai,154.0,26.0,4,Electronics,Accessories,616.0
+B-25903,2018-10-12,Amlan,Madhya Pradesh,Indore,455.0,77.0,8,Electronics,Accessories,3640.0
+B-25903,2018-10-12,Amlan,Madhya Pradesh,Indore,19.0,8.0,2,Clothing,Hankerchief,38.0
+B-25903,2018-10-12,Amlan,Madhya Pradesh,Indore,25.0,11.0,3,Clothing,Leggings,75.0
+B-25903,2018-10-12,Amlan,Madhya Pradesh,Indore,37.0,17.0,3,Clothing,Hankerchief,111.0
+B-25903,2018-10-12,Amlan,Madhya Pradesh,Indore,60.0,-10.0,2,Furniture,Furnishings,120.0
+B-25903,2018-10-12,Amlan,Madhya Pradesh,Indore,204.0,94.0,4,Clothing,Hankerchief,816.0
+B-25903,2018-10-12,Amlan,Madhya Pradesh,Indore,74.0,33.0,2,Clothing,Shirt,148.0
+B-25903,2018-10-12,Amlan,Madhya Pradesh,Indore,336.0,57.0,2,Electronics,Phones,672.0
+B-25904,2018-10-12,Swapnil,Delhi,Delhi,871.0,131.0,2,Furniture,Bookcases,1742.0
+B-25904,2018-10-12,Swapnil,Delhi,Delhi,83.0,12.0,2,Furniture,Chairs,166.0
+B-25905,2018-11-12,Bhargav,Madhya Pradesh,Delhi,152.0,50.0,6,Clothing,Stole,912.0
+B-25906,2018-11-12,Abhijit,Delhi,Delhi,78.0,27.0,3,Clothing,Stole,234.0
+B-25907,2018-11-12,Jaydeep,Madhya Pradesh,Bhopal,30.0,11.0,5,Clothing,Hankerchief,150.0
+B-25908,2018-12-12,Pradeep,Delhi,Delhi,179.0,25.0,5,Clothing,Kurti,895.0
+B-25928,2019-01-01,Smriti,Bihar,Patna,25.0,10.0,1,Furniture,Furnishings,25.0
+B-25928,2019-01-01,Smriti,Bihar,Patna,122.0,15.0,3,Electronics,Accessories,366.0
+B-25929,2019-02-01,Girase,Kerala ,Thiruvananthapuram,1308.0,536.0,3,Furniture,Bookcases,3924.0
+B-25929,2019-02-01,Girase,Kerala ,Thiruvananthapuram,216.0,-135.0,3,Furniture,Chairs,648.0
+B-25929,2019-02-01,Girase,Kerala ,Thiruvananthapuram,154.0,-85.0,3,Furniture,Chairs,462.0
+B-25930,2019-03-01,Monica,Punjab,Chandigarh,40.0,13.0,3,Clothing,T-shirt,120.0
+B-25930,2019-03-01,Monica,Punjab,Chandigarh,351.0,-94.0,5,Electronics,Electronic Games,1755.0
+B-25930,2019-03-01,Monica,Punjab,Chandigarh,595.0,119.0,4,Furniture,Bookcases,2380.0
+B-25930,2019-03-01,Monica,Punjab,Chandigarh,151.0,29.0,5,Clothing,Hankerchief,755.0
+B-25930,2019-03-01,Monica,Punjab,Chandigarh,58.0,17.0,2,Clothing,Hankerchief,116.0
+B-25930,2019-03-01,Monica,Punjab,Chandigarh,202.0,89.0,9,Clothing,T-shirt,1818.0
+B-25931,2019-04-01,Sidharth,Maharashtra,Mumbai,73.0,-36.0,3,Furniture,Chairs,219.0
+B-25932,2019-04-01,Bhutekar,Madhya Pradesh,Indore,71.0,-14.0,4,Furniture,Furnishings,284.0
+B-25933,2019-04-01,Shikhar,Maharashtra,Mumbai,81.0,-44.0,3,Clothing,Stole,243.0
+B-25933,2019-04-01,Shikhar,Maharashtra,Mumbai,412.0,-412.0,6,Clothing,Saree,2472.0
+B-25933,2019-04-01,Shikhar,Maharashtra,Mumbai,207.0,-100.0,2,Clothing,Saree,414.0
+B-25934,2019-04-01,Rahul,Madhya Pradesh,Indore,105.0,33.0,6,Clothing,Saree,630.0
+B-25935,2019-04-01,Sudhir,Nagaland,Kohima,162.0,20.0,3,Furniture,Chairs,486.0
+B-25935,2019-04-01,Sudhir,Nagaland,Kohima,150.0,32.0,3,Clothing,Hankerchief,450.0
+B-25935,2019-04-01,Sudhir,Nagaland,Kohima,1657.0,460.0,4,Furniture,Chairs,6628.0
+B-25936,2019-05-01,Nikhil,Punjab,Chandigarh,61.0,25.0,4,Clothing,Saree,244.0
+B-25937,2019-05-01,Ankit,Haryana,Chandigarh,1101.0,352.0,3,Furniture,Bookcases,3303.0
+B-25938,2019-05-01,Shikhar,Himachal Pradesh,Simla,61.0,1.0,2,Furniture,Furnishings,122.0
+B-25938,2019-05-01,Shikhar,Himachal Pradesh,Simla,59.0,25.0,3,Clothing,Stole,177.0
+B-25939,2019-05-01,Vineet,Sikkim,Gangtok,61.0,18.0,2,Electronics,Accessories,122.0
+B-25939,2019-05-01,Vineet,Sikkim,Gangtok,136.0,41.0,3,Electronics,Accessories,408.0
+B-25939,2019-05-01,Vineet,Sikkim,Gangtok,469.0,33.0,4,Electronics,Electronic Games,1876.0
+B-25940,2019-06-01,Vivek,Goa,Goa,55.0,4.0,2,Clothing,Stole,110.0
+B-25940,2019-06-01,Vivek,Goa,Goa,13.0,3.0,2,Clothing,Hankerchief,26.0
+B-25940,2019-06-01,Vivek,Goa,Goa,46.0,0.0,4,Clothing,Leggings,184.0
+B-25941,2019-07-01,Jaideep,Nagaland,Kohima,177.0,41.0,4,Clothing,Shirt,708.0
+B-25942,2019-08-01,Ankur,Andhra Pradesh,Hyderabad,646.0,-23.0,2,Electronics,Printers,1292.0
+B-25943,2019-09-01,Shardul,Gujarat,Ahmedabad,48.0,20.0,4,Clothing,Stole,192.0
+B-25943,2019-09-01,Shardul,Gujarat,Ahmedabad,26.0,7.0,4,Clothing,Hankerchief,104.0
+B-25943,2019-09-01,Shardul,Gujarat,Ahmedabad,149.0,15.0,3,Clothing,Saree,447.0
+B-25943,2019-09-01,Shardul,Gujarat,Ahmedabad,1547.0,340.0,6,Electronics,Accessories,9282.0
+B-25943,2019-09-01,Shardul,Gujarat,Ahmedabad,137.0,38.0,5,Clothing,Hankerchief,685.0
+B-25944,2019-10-01,Syed,Maharashtra,Pune,169.0,38.0,3,Clothing,Saree,507.0
+B-25945,2019-11-01,Mhatre,Madhya Pradesh,Indore,245.0,10.0,2,Furniture,Bookcases,490.0
+B-25945,2019-11-01,Mhatre,Madhya Pradesh,Indore,60.0,3.0,3,Clothing,Saree,180.0
+B-25945,2019-11-01,Mhatre,Madhya Pradesh,Indore,63.0,14.0,2,Clothing,Shirt,126.0
+B-25945,2019-11-01,Mhatre,Madhya Pradesh,Indore,765.0,-36.0,3,Electronics,Electronic Games,2295.0
+B-25946,2019-12-01,Saurabh,Andhra Pradesh,Hyderabad,146.0,7.0,2,Electronics,Phones,292.0
+B-25989,2019-01-02,Anjali,Delhi,Delhi,44.0,14.0,3,Clothing,Hankerchief,132.0
+B-25989,2019-01-02,Anjali,Delhi,Delhi,10.0,5.0,1,Clothing,Stole,10.0
+B-25989,2019-01-02,Anjali,Delhi,Delhi,42.0,15.0,1,Electronics,Accessories,42.0
+B-25989,2019-01-02,Anjali,Delhi,Delhi,330.0,81.0,1,Furniture,Bookcases,330.0
+B-25989,2019-01-02,Anjali,Delhi,Delhi,338.0,41.0,7,Clothing,Hankerchief,2366.0
+B-25990,2019-02-02,Mugdha,Delhi,Delhi,71.0,32.0,3,Clothing,Saree,213.0
+B-25991,2019-03-02,Mansi,Madhya Pradesh,Indore,188.0,13.0,7,Clothing,Shirt,1316.0
+B-25991,2019-03-02,Mansi,Madhya Pradesh,Indore,90.0,30.0,2,Furniture,Chairs,180.0
+B-25991,2019-03-02,Mansi,Madhya Pradesh,Indore,13.0,5.0,2,Clothing,Hankerchief,26.0
+B-25992,2019-03-02,Gaurav,Rajasthan,Udaipur,141.0,41.0,3,Clothing,Shirt,423.0
+B-25993,2019-03-02,Harshal,Delhi,Delhi,44.0,8.0,2,Clothing,Stole,88.0
+B-25993,2019-03-02,Harshal,Delhi,Delhi,610.0,208.0,3,Electronics,Printers,1830.0
+B-25993,2019-03-02,Harshal,Delhi,Delhi,4363.0,305.0,5,Furniture,Tables,21815.0
+B-25993,2019-03-02,Harshal,Delhi,Delhi,414.0,199.0,3,Electronics,Phones,1242.0
+B-25993,2019-03-02,Harshal,Delhi,Delhi,221.0,26.0,7,Furniture,Furnishings,1547.0
+B-25993,2019-03-02,Harshal,Delhi,Delhi,201.0,32.0,4,Furniture,Furnishings,804.0
+B-25993,2019-03-02,Harshal,Delhi,Delhi,173.0,86.0,1,Electronics,Printers,173.0
+B-25994,2019-03-02,Omkar,Delhi,Delhi,196.0,-7.0,5,Electronics,Phones,980.0
+B-25995,2019-04-02,Yohann,Delhi,Delhi,1314.0,342.0,3,Furniture,Bookcases,3942.0
+B-25996,2019-04-02,Prashant,Delhi,Delhi,62.0,6.0,6,Clothing,Skirt,372.0
+B-25996,2019-04-02,Prashant,Delhi,Delhi,31.0,2.0,2,Clothing,Hankerchief,62.0
+B-25996,2019-04-02,Prashant,Delhi,Delhi,217.0,72.0,2,Furniture,Furnishings,434.0
+B-25996,2019-04-02,Prashant,Delhi,Delhi,286.0,140.0,6,Clothing,Shirt,1716.0
+B-25996,2019-04-02,Prashant,Delhi,Delhi,333.0,50.0,2,Electronics,Phones,666.0
+B-25996,2019-04-02,Prashant,Delhi,Delhi,47.0,1.0,2,Clothing,Stole,94.0
+B-25996,2019-04-02,Prashant,Delhi,Delhi,18.0,4.0,1,Clothing,Saree,18.0
+B-25997,2019-04-02,Yogesh,Madhya Pradesh,Indore,16.0,6.0,3,Clothing,Hankerchief,48.0
+B-25997,2019-04-02,Yogesh,Madhya Pradesh,Indore,231.0,99.0,2,Electronics,Electronic Games,462.0
+B-25997,2019-04-02,Yogesh,Madhya Pradesh,Indore,2292.0,127.0,7,Furniture,Bookcases,16044.0
+B-25997,2019-04-02,Yogesh,Madhya Pradesh,Indore,48.0,15.0,1,Clothing,Hankerchief,48.0
+B-25998,2019-04-02,Anmol,Rajasthan,Udaipur,50.0,-28.0,5,Furniture,Furnishings,250.0
+B-25999,2019-05-02,Diwakar,Delhi,Delhi,26.0,-17.0,1,Clothing,Stole,26.0
+B-25999,2019-05-02,Diwakar,Delhi,Delhi,93.0,-65.0,4,Clothing,Stole,372.0
+B-25999,2019-05-02,Diwakar,Delhi,Delhi,152.0,-3.0,5,Clothing,Saree,760.0
+B-25999,2019-05-02,Diwakar,Delhi,Delhi,51.0,-49.0,2,Electronics,Electronic Games,102.0
+B-25999,2019-05-02,Diwakar,Delhi,Delhi,352.0,74.0,8,Clothing,Stole,2816.0
+B-25999,2019-05-02,Diwakar,Delhi,Delhi,129.0,11.0,2,Electronics,Phones,258.0
+B-25999,2019-05-02,Diwakar,Delhi,Delhi,223.0,62.0,7,Clothing,Shirt,1561.0
+B-25999,2019-05-02,Diwakar,Delhi,Delhi,770.0,323.0,3,Electronics,Accessories,2310.0
+B-25999,2019-05-02,Diwakar,Delhi,Delhi,222.0,74.0,5,Clothing,Hankerchief,1110.0
+B-25999,2019-05-02,Diwakar,Delhi,Delhi,215.0,-30.0,2,Clothing,Saree,430.0
+B-25999,2019-05-02,Diwakar,Delhi,Delhi,109.0,40.0,1,Furniture,Furnishings,109.0
+B-26000,2019-06-02,Shubham,Delhi,Delhi,43.0,9.0,4,Clothing,Skirt,172.0
+B-26000,2019-06-02,Shubham,Delhi,Delhi,676.0,151.0,3,Electronics,Printers,2028.0
+B-26000,2019-06-02,Shubham,Delhi,Delhi,597.0,93.0,4,Furniture,Chairs,2388.0
+B-26001,2019-07-02,Patil,Delhi,Delhi,13.0,0.0,2,Clothing,Hankerchief,26.0
+B-26001,2019-07-02,Patil,Delhi,Delhi,149.0,17.0,4,Furniture,Furnishings,596.0
+B-26001,2019-07-02,Patil,Delhi,Delhi,8.0,2.0,2,Clothing,Skirt,16.0
+B-26001,2019-07-02,Patil,Delhi,Delhi,50.0,9.0,6,Clothing,Skirt,300.0
+B-26002,2019-08-02,Harsh,Delhi,Delhi,80.0,22.0,3,Clothing,Stole,240.0
+B-26002,2019-08-02,Harsh,Delhi,Delhi,276.0,52.0,5,Clothing,Saree,1380.0
+B-26002,2019-08-02,Harsh,Delhi,Delhi,71.0,19.0,3,Clothing,T-shirt,213.0
+B-26002,2019-08-02,Harsh,Delhi,Delhi,141.0,7.0,7,Clothing,Saree,987.0
+B-26002,2019-08-02,Harsh,Delhi,Delhi,113.0,28.0,2,Clothing,Saree,226.0
+B-26003,2019-08-02,Hitesh,Madhya Pradesh,Bhopal,315.0,-8.0,3,Furniture,Chairs,945.0
+B-26003,2019-08-02,Hitesh,Madhya Pradesh,Bhopal,128.0,47.0,4,Clothing,Hankerchief,512.0
+B-26003,2019-08-02,Hitesh,Madhya Pradesh,Bhopal,652.0,13.0,6,Furniture,Furnishings,3912.0
+B-26003,2019-08-02,Hitesh,Madhya Pradesh,Bhopal,114.0,41.0,6,Furniture,Furnishings,684.0
+B-26003,2019-08-02,Hitesh,Madhya Pradesh,Bhopal,79.0,16.0,3,Clothing,T-shirt,237.0
+B-26003,2019-08-02,Hitesh,Madhya Pradesh,Bhopal,498.0,-116.0,4,Clothing,Saree,1992.0
+B-26003,2019-08-02,Hitesh,Madhya Pradesh,Bhopal,1745.0,122.0,2,Furniture,Tables,3490.0
+B-26003,2019-08-02,Hitesh,Madhya Pradesh,Bhopal,17.0,2.0,2,Clothing,Skirt,34.0
+B-26004,2019-08-02,Nandita,Rajasthan,Jaipur,147.0,44.0,3,Clothing,Saree,441.0
+B-26004,2019-08-02,Nandita,Rajasthan,Jaipur,162.0,73.0,2,Electronics,Electronic Games,324.0
+B-26005,2019-08-02,Parnavi,West Bengal,Kolkata,87.0,10.0,3,Clothing,Stole,261.0
+B-26006,2019-09-02,Arpita,Karnataka,Bangalore,1301.0,573.0,5,Electronics,Accessories,6505.0
+B-26007,2019-09-02,Shubham,Jammu and Kashmir,Kashmir,311.0,72.0,2,Furniture,Bookcases,622.0
+B-26008,2019-09-02,Kalyani,Tamil Nadu,Chennai,22.0,4.0,1,Clothing,Stole,22.0
+B-26008,2019-09-02,Kalyani,Tamil Nadu,Chennai,206.0,51.0,4,Clothing,Hankerchief,824.0
+B-26008,2019-09-02,Kalyani,Tamil Nadu,Chennai,57.0,24.0,5,Clothing,Leggings,285.0
+B-26008,2019-09-02,Kalyani,Tamil Nadu,Chennai,10.0,-1.0,1,Clothing,Saree,10.0
+B-26009,2019-10-02,Komal,Uttar Pradesh,Lucknow,285.0,128.0,2,Electronics,Printers,570.0
+B-26009,2019-10-02,Komal,Uttar Pradesh,Lucknow,195.0,12.0,9,Clothing,Shirt,1755.0
+B-26010,2019-11-02,Kartikay,Bihar,Patna,527.0,26.0,3,Electronics,Electronic Games,1581.0
+B-26010,2019-11-02,Kartikay,Bihar,Patna,29.0,3.0,2,Clothing,Stole,58.0
+B-26010,2019-11-02,Kartikay,Bihar,Patna,85.0,13.0,2,Clothing,Shirt,170.0
+B-26010,2019-11-02,Kartikay,Bihar,Patna,18.0,2.0,3,Clothing,Hankerchief,54.0
+B-26010,2019-11-02,Kartikay,Bihar,Patna,176.0,-13.0,5,Furniture,Furnishings,880.0
+B-26010,2019-11-02,Kartikay,Bihar,Patna,55.0,3.0,3,Clothing,T-shirt,165.0
+B-26011,2019-12-02,Bharat,Gujarat,Ahmedabad,93.0,44.0,2,Clothing,Stole,186.0
+B-26043,2019-01-03,Amit,Sikkim,Gangtok,185.0,48.0,4,Clothing,Stole,740.0
+B-26043,2019-01-03,Amit,Sikkim,Gangtok,62.0,28.0,5,Clothing,Hankerchief,310.0
+B-26043,2019-01-03,Amit,Sikkim,Gangtok,79.0,5.0,6,Clothing,Hankerchief,474.0
+B-26043,2019-01-03,Amit,Sikkim,Gangtok,30.0,12.0,3,Clothing,Skirt,90.0
+B-26043,2019-01-03,Amit,Sikkim,Gangtok,122.0,50.0,7,Clothing,Stole,854.0
+B-26044,2019-02-03,Sanjay,Goa,Goa,28.0,10.0,3,Clothing,Skirt,84.0
+B-26045,2019-03-03,Nidhi,Nagaland,Kohima,302.0,75.0,6,Furniture,Furnishings,1812.0
+B-26045,2019-03-03,Nidhi,Nagaland,Kohima,376.0,0.0,7,Clothing,Stole,2632.0
+B-26045,2019-03-03,Nidhi,Nagaland,Kohima,179.0,77.0,1,Clothing,Saree,179.0
+B-26045,2019-03-03,Nidhi,Nagaland,Kohima,27.0,5.0,1,Clothing,Stole,27.0
+B-26046,2019-04-03,Nishi,Maharashtra,Mumbai,32.0,3.0,8,Clothing,Hankerchief,256.0
+B-26047,2019-04-03,Ashmi,Madhya Pradesh,Indore,55.0,12.0,5,Clothing,Skirt,275.0
+B-26048,2019-04-03,Parth,Maharashtra,Pune,163.0,81.0,2,Electronics,Accessories,326.0
+B-26048,2019-04-03,Parth,Maharashtra,Pune,401.0,13.0,6,Furniture,Chairs,2406.0
+B-26048,2019-04-03,Parth,Maharashtra,Pune,1461.0,202.0,5,Furniture,Tables,7305.0
+B-26048,2019-04-03,Parth,Maharashtra,Pune,1104.0,209.0,4,Clothing,Trousers,4416.0
+B-26049,2019-05-03,Lisha,Madhya Pradesh,Bhopal,100.0,28.0,2,Clothing,Hankerchief,200.0
+B-26050,2019-06-03,Paridhi,Rajasthan,Jaipur,325.0,32.0,7,Clothing,T-shirt,2275.0
+B-26050,2019-06-03,Paridhi,Rajasthan,Jaipur,169.0,55.0,4,Clothing,Saree,676.0
+B-26050,2019-06-03,Paridhi,Rajasthan,Jaipur,487.0,143.0,4,Electronics,Phones,1948.0
+B-26050,2019-06-03,Paridhi,Rajasthan,Jaipur,166.0,27.0,2,Electronics,Accessories,332.0
+B-26050,2019-06-03,Paridhi,Rajasthan,Jaipur,79.0,32.0,3,Clothing,Saree,237.0
+B-26050,2019-06-03,Paridhi,Rajasthan,Jaipur,32.0,6.0,3,Clothing,Shirt,96.0
+B-26050,2019-06-03,Paridhi,Rajasthan,Jaipur,38.0,9.0,2,Clothing,Stole,76.0
+B-26050,2019-06-03,Paridhi,Rajasthan,Jaipur,284.0,44.0,6,Clothing,Hankerchief,1704.0
+B-26050,2019-06-03,Paridhi,Rajasthan,Jaipur,382.0,92.0,2,Electronics,Printers,764.0
+B-26051,2019-07-03,Parishi,West Bengal,Kolkata,184.0,85.0,6,Clothing,T-shirt,1104.0
+B-26051,2019-07-03,Parishi,West Bengal,Kolkata,676.0,195.0,5,Furniture,Bookcases,3380.0
+B-26051,2019-07-03,Parishi,West Bengal,Kolkata,669.0,74.0,5,Furniture,Bookcases,3345.0
+B-26051,2019-07-03,Parishi,West Bengal,Kolkata,80.0,22.0,3,Clothing,Stole,240.0
+B-26051,2019-07-03,Parishi,West Bengal,Kolkata,216.0,50.0,4,Clothing,Stole,864.0
+B-26051,2019-07-03,Parishi,West Bengal,Kolkata,85.0,24.0,10,Clothing,Hankerchief,850.0
+B-26051,2019-07-03,Parishi,West Bengal,Kolkata,382.0,119.0,2,Clothing,Saree,764.0
+B-26051,2019-07-03,Parishi,West Bengal,Kolkata,490.0,88.0,2,Electronics,Accessories,980.0
+B-26051,2019-07-03,Parishi,West Bengal,Kolkata,1337.0,147.0,7,Electronics,Printers,9359.0
+B-26051,2019-07-03,Parishi,West Bengal,Kolkata,600.0,102.0,5,Electronics,Electronic Games,3000.0
+B-26052,2019-08-03,Ajay,Karnataka,Bangalore,78.0,28.0,6,Clothing,Kurti,468.0
+B-26052,2019-08-03,Ajay,Karnataka,Bangalore,101.0,16.0,4,Clothing,T-shirt,404.0
+B-26052,2019-08-03,Ajay,Karnataka,Bangalore,145.0,0.0,3,Clothing,Saree,435.0
+B-26052,2019-08-03,Ajay,Karnataka,Bangalore,148.0,23.0,4,Clothing,Kurti,592.0
+B-26052,2019-08-03,Ajay,Karnataka,Bangalore,15.0,1.0,1,Clothing,Shirt,15.0
+B-26052,2019-08-03,Ajay,Karnataka,Bangalore,25.0,7.0,2,Clothing,Stole,50.0
+B-26052,2019-08-03,Ajay,Karnataka,Bangalore,774.0,170.0,3,Electronics,Accessories,2322.0
+B-26053,2019-09-03,Kirti,Jammu and Kashmir,Kashmir,17.0,1.0,2,Clothing,Skirt,34.0
+B-26053,2019-09-03,Kirti,Jammu and Kashmir,Kashmir,246.0,61.0,2,Furniture,Bookcases,492.0
+B-26053,2019-09-03,Kirti,Jammu and Kashmir,Kashmir,425.0,208.0,7,Clothing,Saree,2975.0
+B-26053,2019-09-03,Kirti,Jammu and Kashmir,Kashmir,93.0,31.0,3,Electronics,Accessories,279.0
+B-26053,2019-09-03,Kirti,Jammu and Kashmir,Kashmir,594.0,89.0,3,Furniture,Bookcases,1782.0
+B-26053,2019-09-03,Kirti,Jammu and Kashmir,Kashmir,85.0,2.0,6,Clothing,Stole,510.0
+B-26053,2019-09-03,Kirti,Jammu and Kashmir,Kashmir,27.0,6.0,3,Clothing,Skirt,81.0
+B-26053,2019-09-03,Kirti,Jammu and Kashmir,Kashmir,120.0,1.0,1,Furniture,Chairs,120.0
+B-26053,2019-09-03,Kirti,Jammu and Kashmir,Kashmir,162.0,55.0,3,Clothing,Stole,486.0
+B-26054,2019-10-03,Mayank,Maharashtra,Mumbai,246.0,98.0,5,Clothing,Hankerchief,1230.0
+B-26054,2019-10-03,Mayank,Maharashtra,Mumbai,88.0,20.0,2,Clothing,Saree,176.0
+B-26054,2019-10-03,Mayank,Maharashtra,Mumbai,88.0,19.0,2,Clothing,Shirt,176.0
+B-26054,2019-10-03,Mayank,Maharashtra,Mumbai,139.0,21.0,3,Electronics,Accessories,417.0
+B-26054,2019-10-03,Mayank,Maharashtra,Mumbai,139.0,36.0,3,Clothing,Stole,417.0
+B-26054,2019-10-03,Mayank,Maharashtra,Mumbai,138.0,11.0,5,Clothing,Stole,690.0
+B-26054,2019-10-03,Mayank,Maharashtra,Mumbai,156.0,23.0,3,Clothing,Stole,468.0
+B-26054,2019-10-03,Mayank,Maharashtra,Mumbai,559.0,174.0,2,Electronics,Electronic Games,1118.0
+B-26055,2019-10-03,Yaanvi,Madhya Pradesh,Indore,227.0,48.0,5,Clothing,Stole,1135.0
+B-26055,2019-10-03,Yaanvi,Madhya Pradesh,Indore,5729.0,64.0,14,Furniture,Chairs,80206.0
+B-26055,2019-10-03,Yaanvi,Madhya Pradesh,Indore,94.0,27.0,2,Clothing,T-shirt,188.0
+B-26055,2019-10-03,Yaanvi,Madhya Pradesh,Indore,213.0,4.0,14,Clothing,Shirt,2982.0
+B-26055,2019-10-03,Yaanvi,Madhya Pradesh,Indore,250.0,-12.0,2,Electronics,Printers,500.0
+B-26055,2019-10-03,Yaanvi,Madhya Pradesh,Indore,43.0,11.0,1,Clothing,Saree,43.0
+B-26055,2019-10-03,Yaanvi,Madhya Pradesh,Indore,1218.0,420.0,8,Furniture,Bookcases,9744.0
+B-26055,2019-10-03,Yaanvi,Madhya Pradesh,Indore,671.0,114.0,9,Electronics,Phones,6039.0
+B-26055,2019-10-03,Yaanvi,Madhya Pradesh,Indore,57.0,7.0,2,Clothing,Shirt,114.0
+B-26056,2019-10-03,Sonal,Bihar,Patna,70.0,24.0,3,Clothing,Stole,210.0
+B-26056,2019-10-03,Sonal,Bihar,Patna,47.0,20.0,7,Clothing,Hankerchief,329.0
+B-26056,2019-10-03,Sonal,Bihar,Patna,33.0,9.0,2,Clothing,Hankerchief,66.0
+B-26056,2019-10-03,Sonal,Bihar,Patna,424.0,161.0,2,Clothing,Saree,848.0
+B-26056,2019-10-03,Sonal,Bihar,Patna,391.0,90.0,6,Electronics,Phones,2346.0
+B-26056,2019-10-03,Sonal,Bihar,Patna,15.0,6.0,2,Clothing,Hankerchief,30.0
+B-26056,2019-10-03,Sonal,Bihar,Patna,101.0,11.0,2,Clothing,Hankerchief,202.0
+B-26056,2019-10-03,Sonal,Bihar,Patna,31.0,9.0,2,Clothing,Hankerchief,62.0
+B-26056,2019-10-03,Sonal,Bihar,Patna,220.0,40.0,2,Electronics,Accessories,440.0
+B-26056,2019-10-03,Sonal,Bihar,Patna,213.0,-145.0,3,Furniture,Bookcases,639.0
+B-26056,2019-10-03,Sonal,Bihar,Patna,19.0,-18.0,4,Clothing,Kurti,76.0
+B-26056,2019-10-03,Sonal,Bihar,Patna,206.0,18.0,4,Clothing,Hankerchief,824.0
+B-26057,2019-10-03,Sharda,Kerala ,Thiruvananthapuram,736.0,346.0,5,Electronics,Printers,3680.0
+B-26057,2019-10-03,Sharda,Kerala ,Thiruvananthapuram,54.0,8.0,4,Clothing,T-shirt,216.0
+B-26057,2019-10-03,Sharda,Kerala ,Thiruvananthapuram,659.0,-37.0,2,Furniture,Bookcases,1318.0
+B-26057,2019-10-03,Sharda,Kerala ,Thiruvananthapuram,224.0,87.0,3,Clothing,Trousers,672.0
+B-26058,2019-11-03,Aditya,Punjab,Chandigarh,212.0,97.0,7,Clothing,Hankerchief,1484.0
+B-26059,2019-12-03,Rachna,Haryana,Chandigarh,20.0,6.0,1,Clothing,T-shirt,20.0
